@@ -1,0 +1,23 @@
+{
+  "name": "Protobuf-iOS",
+  "version": "0.1.0",
+  "summary": "Google Protocol Buffer Runtime Lib",
+  "description": "Google Protocol Buffer Runtime Lib For Objective-C",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/Protobuf-iOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mewehk": "100992222@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/Protobuf-iOS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "Protobuf-iOS/**/*",
+  "public_header_files": "Protobuf-iOS/**/*.h"
+}

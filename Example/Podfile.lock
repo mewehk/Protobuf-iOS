@@ -1,0 +1,14 @@
+PODS:
+  - Protobuf-iOS (0.1.0)
+
+DEPENDENCIES:
+  - Protobuf-iOS (from `../`)
+
+EXTERNAL SOURCES:
+  Protobuf-iOS:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Protobuf-iOS: 4b662366855a4502b2a2660b3091fa16126c4509
+
+COCOAPODS: 0.39.0

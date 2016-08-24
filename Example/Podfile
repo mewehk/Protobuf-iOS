@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Protobuf-iOS_Tests' do
+  pod 'Protobuf-iOS', :path => '../'
+  
+  
+end
